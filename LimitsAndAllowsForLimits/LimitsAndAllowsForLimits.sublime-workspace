@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysql_rea",
+				"mysql_real_escape_string"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"tr",
+				"treug"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"hre",
+				"href"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Диплом Полищук А.В. 5151/english/index.php",
+		"/D/openServer/OSPanel/domains/lr6/index.php",
+		"/E/Диплом Полищук А.В. 5151/english/wp-admin/css/about.css",
+		"/E/Диплом Полищук А.В. 5151/english/wp-admin/admin.php",
+		"/E/Диплом Полищук А.В. 5151/english/wp-admin/freedoms.php",
+		"/F/admin-page.php",
+		"/F/sign-in.php",
+		"/D/openServer/OSPanel/domains/fe/first.php",
+		"/E/web_laba.ua/www/PHP/first.php",
+		"/F/lr6.php",
+		"/D/openServer/OSPanel/domains/lr4/index.php",
+		"/D/openServer/OSPanel/domains/lr3/test.php",
+		"/D/openServer/OSPanel/domains/lr3/index.php",
+		"/D/wordpress/wp-admin/install.php",
+		"/D/openServer/OSPanel/domains/OBKU.ua/www/index.php",
+		"/D/openServer/OSPanel/domains/OBKU.ua/www/add.php",
+		"/D/openServer/OSPanel/domains/OBKU.ua/www/tender.php",
+		"/D/openServer/OSPanel/domains/pif/index.php",
+		"/D/openServer/OSPanel/domains/localhost/index.php",
+		"/D/openServer/OSPanel/domains/lr3/click.php",
+		"/D/openServer/OSPanel/domains/lr3/styles.css",
+		"/D/openServer/OSPanel/domains/lr3/style.css",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/localhost/style.css",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/localhost/sindex.html",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/localhost/index.html",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/laboratorka/first.html",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/Новый текстовый документ.html",
+		"/D/openServer/OSPanel/domains/OBKU.ua/www/pidpriemstvo.php",
+		"/D/openServer/OSPanel/domains/kursach/spivrobitniki.php",
+		"/D/openServer/OSPanel/domains/kursach/spvid.php",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/OBKU.ua/www/tender.php",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/OBKU.ua/www/add.php",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/OBKU.ua/www/pronas.html",
+		"/C/Users/ddavy/OneDrive/Рабочий стол/OBKU.ua/www/index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LimitsAndAllowsForLimits.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
